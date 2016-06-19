@@ -1,0 +1,6 @@
+﻿
+*Errors logging at: 30.05.2016 3:45:55*
+Message: Ссылка на объект не указывает на экземпляр объекта.; source: csSniffer; data: System.Collections.ListDictionaryInternal; stacktrace:    в csSniffer.Window.checkBox1_CheckedChanged(Object sender, EventArgs e) в c:\Users\Admin\Documents\Visual Studio 2012\Projects\csSniffer\csSniffer\Window.cs:строка 264
+
+*Errors logging at: 30.05.2016 3:46:42*
+Message: Ссылка на объект не указывает на экземпляр объекта.; source: csSniffer; data: System.Collections.ListDictionaryInternal; stacktrace:    в csSniffer.Window.checkBox1_CheckedChanged(Object sender, EventArgs e) в c:\Users\Admin\Documents\Visual Studio 2012\Projects\csSniffer\csSniffer\Window.cs:строка 264

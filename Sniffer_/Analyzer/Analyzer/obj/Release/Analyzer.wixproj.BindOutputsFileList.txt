@@ -1,0 +1,3 @@
+D:\Programing Languages\Sniffer_\Analyzer\Analyzer\obj\Release\cab1.cab
+D:\Programing Languages\Sniffer_\Analyzer\Analyzer\obj\Release\Analyzer.msi
+D:\Programing Languages\Sniffer_\Analyzer\Analyzer\obj\Release\Analyzer.wixpdb

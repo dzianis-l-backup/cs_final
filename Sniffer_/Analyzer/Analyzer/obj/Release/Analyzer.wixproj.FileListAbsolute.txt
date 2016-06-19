@@ -1,0 +1,20 @@
+c:\users\dzianisl\documents\visual studio 2015\Projects\Analyzer\Analyzer\bin\Release\cab1.cab
+c:\users\dzianisl\documents\visual studio 2015\Projects\Analyzer\Analyzer\bin\Release\Analyzer.msi
+c:\users\dzianisl\documents\visual studio 2015\Projects\Analyzer\Analyzer\bin\Release\Analyzer.wixpdb
+c:\users\dzianisl\documents\visual studio 2015\Projects\Analyzer\Analyzer\obj\Release\Product.wixobj
+c:\users\dzianisl\documents\visual studio 2015\Projects\Analyzer\Analyzer\obj\Release\cab1.cab
+c:\users\dzianisl\documents\visual studio 2015\Projects\Analyzer\Analyzer\obj\Release\Analyzer.msi
+c:\users\dzianisl\documents\visual studio 2015\Projects\Analyzer\Analyzer\obj\Release\Analyzer.wixpdb
+c:\users\dzianisl\documents\visual studio 2015\Projects\Analyzer\Analyzer\obj\Release\Analyzer.wixproj.BindContentsFileList.txt
+c:\users\dzianisl\documents\visual studio 2015\Projects\Analyzer\Analyzer\obj\Release\Analyzer.wixproj.BindOutputsFileList.txt
+c:\users\dzianisl\documents\visual studio 2015\Projects\Analyzer\Analyzer\obj\Release\Analyzer.wixproj.BindBuiltOutputsFileList.txt
+D:\Programing Languages\Sniffer_\Analyzer\Analyzer\obj\Release\Product.wixobj
+D:\Programing Languages\Sniffer_\Analyzer\Analyzer\obj\Release\Analyzer.msi
+D:\Programing Languages\Sniffer_\Analyzer\Analyzer\bin\Release\cab1.cab
+D:\Programing Languages\Sniffer_\Analyzer\Analyzer\bin\Release\Analyzer.msi
+D:\Programing Languages\Sniffer_\Analyzer\Analyzer\bin\Release\Analyzer.wixpdb
+D:\Programing Languages\Sniffer_\Analyzer\Analyzer\obj\Release\cab1.cab
+D:\Programing Languages\Sniffer_\Analyzer\Analyzer\obj\Release\Analyzer.wixpdb
+D:\Programing Languages\Sniffer_\Analyzer\Analyzer\obj\Release\Analyzer.wixproj.BindContentsFileList.txt
+D:\Programing Languages\Sniffer_\Analyzer\Analyzer\obj\Release\Analyzer.wixproj.BindOutputsFileList.txt
+D:\Programing Languages\Sniffer_\Analyzer\Analyzer\obj\Release\Analyzer.wixproj.BindBuiltOutputsFileList.txt

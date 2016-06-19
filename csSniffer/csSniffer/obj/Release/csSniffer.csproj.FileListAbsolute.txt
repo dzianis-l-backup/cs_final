@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\csSniffer\csSniffer\bin\Release\csSniffer.exe.config
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\csSniffer\csSniffer\bin\Release\csSniffer.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\csSniffer\csSniffer\bin\Release\csSniffer.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\csSniffer\csSniffer\obj\Release\csSniffer.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\csSniffer\csSniffer\obj\Release\csSniffer.Window.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\csSniffer\csSniffer\obj\Release\csSniffer.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\csSniffer\csSniffer\obj\Release\csSniffer.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\csSniffer\csSniffer\obj\Release\csSniffer.pdb

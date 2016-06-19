@@ -1,0 +1,10 @@
+c:\users\dzianisl\documents\visual studio 2015\Projects\Analyzer\Analyzer\obj\Debug\Product.wixobj
+c:\users\dzianisl\documents\visual studio 2015\Projects\Analyzer\Analyzer\obj\Debug\Analyzer.wixpdb
+c:\users\dzianisl\documents\visual studio 2015\Projects\Analyzer\Analyzer\bin\Debug\cab1.cab
+c:\users\dzianisl\documents\visual studio 2015\Projects\Analyzer\Analyzer\bin\Debug\Analyzer.msi
+c:\users\dzianisl\documents\visual studio 2015\Projects\Analyzer\Analyzer\bin\Debug\Analyzer.wixpdb
+c:\users\dzianisl\documents\visual studio 2015\Projects\Analyzer\Analyzer\obj\Debug\cab1.cab
+c:\users\dzianisl\documents\visual studio 2015\Projects\Analyzer\Analyzer\obj\Debug\Analyzer.msi
+c:\users\dzianisl\documents\visual studio 2015\Projects\Analyzer\Analyzer\obj\Debug\Analyzer.wixproj.BindContentsFileList.txt
+c:\users\dzianisl\documents\visual studio 2015\Projects\Analyzer\Analyzer\obj\Debug\Analyzer.wixproj.BindOutputsFileList.txt
+c:\users\dzianisl\documents\visual studio 2015\Projects\Analyzer\Analyzer\obj\Debug\Analyzer.wixproj.BindBuiltOutputsFileList.txt

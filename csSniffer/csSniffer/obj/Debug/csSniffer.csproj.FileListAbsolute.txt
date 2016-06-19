@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2012\Projects\csSniffer\csSniffer\bin\Debug\csSniffer.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\csSniffer\csSniffer\obj\Debug\csSniffer.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\csSniffer\csSniffer\obj\Debug\csSniffer.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\csSniffer\csSniffer\obj\Debug\csSniffer.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\csSniffer\csSniffer\bin\Debug\csSniffer.exe
+c:\users\admin\documents\visual studio 2012\Projects\csSniffer\csSniffer\bin\Debug\csSniffer.pdb
+c:\users\admin\documents\visual studio 2012\Projects\csSniffer\csSniffer\obj\Debug\csSniffer.Window.resources
+c:\users\admin\documents\visual studio 2012\Projects\csSniffer\csSniffer\obj\Debug\csSniffer.exe
+c:\users\admin\documents\visual studio 2012\Projects\csSniffer\csSniffer\obj\Debug\csSniffer.pdb

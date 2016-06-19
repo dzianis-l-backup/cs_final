@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+  <?define ProductName="Traffic_Analyzer" ?>
+  <?define ProductVersion="1.0.0.0" ?>
+  <?define ProductCode="*"?>
+  <?define UpgradeCode="9e36a864-f98e-446a-b2e6-dd77567a4031"?>
+  <?define Manufacturer="Leanenka_Dzianis"?>
+  <?define licenseRtf="D:\Programing Languages\Sniffer_\Analyzer\license.rtf"?>
+
+  <Product Id="$(var.ProductCode)" Name="$(var.ProductName)" Language="1049" Version="$(var.ProductVersion)"
+           Manufacturer="$(var.Manufacturer)" UpgradeCode="$(var.UpgradeCode)">
+    <!--1033 on 1049 - Russian language maintaines-->
+    <Package InstallerVersion="200" Compressed="yes" />
+
+    <MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+    <MediaTemplate />
+
+    <Directory Id="TARGETDIR" Name="SourceDir">
+      <Directory Id="ProgramFilesFolder">
+        <Directory Id="INSTALLLOCATION" Name="$(var.ProductName)">
+
+          <Component Id="ProductComponent" Guid="*">
+            <File Id='Sniffer' DiskId='1' Source='C:\Users\Admin\Documents\Visual Studio 2012\Projects\csSniffer\csSniffer\bin\Release\csSniffer.exe'/>
+          </Component>
+        </Directory>
+      </Directory>
+
+      <Directory Id="ProgramMenuFolder">
+        <Directory Id="ApplicationProgramsFolder" Name="$(var.ProductName)">
+          <Component Id="ApplicationShortcutSniffer" Guid="4CEBD68F-E933-47f9-B02C-A4FC69FDB551">
+            <Shortcut Id="ShortcutSniffer"
+                 Name="Sniffer"
+                 Description="$(var.ProductName)"
+                 Target="[INSTALLLOCATION]Sniffer.exe"
+                 WorkingDirectory="INSTALLLOCATION"/>
+            <RemoveFolder Id="ApplicationProgramsFolder" On="uninstall"/>
+            <RegistryValue Root="HKCU" Key="Software\$(var.Manufacturer)\$(var.ProductName)" Name="installed" Type="integer" Value="1" KeyPath="yes"/>
+          </Component>
+        </Directory>
+      </Directory>
+    </Directory>
+
+
+    <Feature Id="ProductFeature" Title="$(var.ProductName)" Level="1">
+      <ComponentRef Id="ProductComponent" />
+      <ComponentRef Id="ApplicationShortcutSniffer" />
+    </Feature>
+    <Property Id="WIXUI_INSTALLDIR" Value="INSTALLLOCATION" ></Property>
+    <WixVariable Id="WixUILicenseRtf" Overridable="yes" Value="$(var.licenseRtf)"/>
+    <UIRef Id="WixUI_InstallDir"/>
+
+
+
+
+  </Product>
+
+</Wix>
